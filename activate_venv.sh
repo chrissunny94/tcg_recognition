@@ -1,0 +1,1 @@
+source venv_name/bin/activate
